@@ -1,7 +1,7 @@
 Tool to running shell commands in easier way.
 Define commands, name it and run.
 
-To generate config file run:
+To generate config file run
 ```shell
 cr init
 ```
@@ -35,7 +35,7 @@ Output
 |INFO|  SHELL: powershell | COMMAND: ls
 
 
-    Directory: C:\Users\piotr\Desktop\CommandRunner\cmake-build-debug
+    Directory: host\cmake-build-debug
 
 
 Mode                 LastWriteTime         Length Name
