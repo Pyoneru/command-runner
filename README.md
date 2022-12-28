@@ -35,7 +35,7 @@ Output
 |INFO|  SHELL: powershell | COMMAND: ls
 
 
-    Directory: host\cmake-build-debug
+    Directory: CommandRunner\cmake-build-debug
 
 
 Mode                 LastWriteTime         Length Name
