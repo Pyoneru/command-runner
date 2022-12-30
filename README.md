@@ -11,9 +11,12 @@ Example of cr_config.json
 {
     "commands": [
         {
-            "command": "cmake --build .",
+            "command": "cmake ..",
             "name": "build",
-            "shell": "powershell"
+            "shell": "powershell",
+            "next": {
+                "command": "cmake --build ."
+            }
         },
         {
              "name": "ls",
